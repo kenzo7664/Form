@@ -1,4 +1,4 @@
-// Credit: https://dev.to/vitaliemaldur/resize-event-listener-using-react-hooks-1k0c
+
 import { useState, useEffect } from 'react';
 
 const getWidth = () =>

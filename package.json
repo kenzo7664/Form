@@ -2,7 +2,7 @@
   "name": "react-wizard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eloudsa.github.io/react-wizard/",
+  "homepage": "./",
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@material-ui/styles": "^4.9.10",
